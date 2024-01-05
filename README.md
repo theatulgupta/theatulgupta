@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Atul Kumar Gupta</h1>
-<h3 align="center">A passionate App Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theatulgupta&label=Profile%20views&color=0e75b6&style=flat" alt="theatulgupta" /> </p>
 
-- 🔭 I’m currently working on **Sixtynine**
+- 🔭 I’m looking for **Job Opportunity**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available here ⬇️
 
-- 💬 Ask me about **Jetpack Compose or any tech related stuff**
+- 💬 Ask me about **Jetpack Compose or any tech-related stuff**
 
 - 📫 How to reach me **Check social links below.**
 
-- ⚡ Fun fact **I spend almost 12 hours for coding while listening to songs every day.**
+- ⚡ Fun fact **I spend almost 12 hours coding while listening to songs every day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
